@@ -1,0 +1,18 @@
+archive: TROCHOI.zip
+checker: standard
+test_cases:
+- in: TROCHOI/Test0001/TROCHOI.inp
+  out: TROCHOI/Test0001/TROCHOI.out
+  points: 1
+- in: TROCHOI/Test0002/TROCHOI.inp
+  out: TROCHOI/Test0002/TROCHOI.out
+  points: 1
+- in: TROCHOI/Test0003/TROCHOI.inp
+  out: TROCHOI/Test0003/TROCHOI.out
+  points: 1
+- in: TROCHOI/Test0004/TROCHOI.inp
+  out: TROCHOI/Test0004/TROCHOI.out
+  points: 1
+- in: TROCHOI/Test0005/TROCHOI.inp
+  out: TROCHOI/Test0005/TROCHOI.out
+  points: 1

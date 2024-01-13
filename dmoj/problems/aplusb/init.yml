@@ -1,0 +1,6 @@
+archive: test.zip
+checker: standard
+test_cases:
+- in: test/test1/input.inp
+  out: test/test1/output.out
+  points: 1

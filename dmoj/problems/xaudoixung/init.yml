@@ -1,0 +1,36 @@
+archive: CAU3.zip
+checker: standard
+file_io:
+  input: CAU3.inp
+  output: CAU3.out
+test_cases:
+- in: CAU3/Test0/CAU3.INP
+  out: CAU3/Test0/CAU3.OUT
+  points: 1
+- in: CAU3/Test1/CAU3.INP
+  out: CAU3/Test1/CAU3.OUT
+  points: 1
+- in: CAU3/Test2/CAU3.INP
+  out: CAU3/Test2/CAU3.OUT
+  points: 1
+- in: CAU3/Test3/CAU3.INP
+  out: CAU3/Test3/CAU3.OUT
+  points: 1
+- in: CAU3/Test4/CAU3.INP
+  out: CAU3/Test4/CAU3.OUT
+  points: 1
+- in: CAU3/Test5/CAU3.INP
+  out: CAU3/Test5/CAU3.OUT
+  points: 1
+- in: CAU3/Test6/CAU3.INP
+  out: CAU3/Test6/CAU3.OUT
+  points: 1
+- in: CAU3/Test7/CAU3.INP
+  out: CAU3/Test7/CAU3.OUT
+  points: 1
+- in: CAU3/Test8/CAU3.INP
+  out: CAU3/Test8/CAU3.OUT
+  points: 1
+- in: CAU3/Test9/CAU3.INP
+  out: CAU3/Test9/CAU3.OUT
+  points: 1

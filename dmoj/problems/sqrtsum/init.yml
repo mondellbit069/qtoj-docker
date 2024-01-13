@@ -1,0 +1,33 @@
+archive: sqrtsum.zip
+checker: standard
+test_cases:
+- in: sqrtsum/0001.inp
+  out: sqrtsum/0001.out
+  points: 1
+- in: sqrtsum/0002.inp
+  out: sqrtsum/0002.out
+  points: 1
+- in: sqrtsum/0021.inp
+  out: sqrtsum/0021.out
+  points: 1
+- in: sqrtsum/0022.inp
+  out: sqrtsum/0022.out
+  points: 1
+- in: sqrtsum/0023.inp
+  out: sqrtsum/0023.out
+  points: 1
+- in: sqrtsum/0051.inp
+  out: sqrtsum/0051.out
+  points: 1
+- in: sqrtsum/0052.inp
+  out: sqrtsum/0052.out
+  points: 1
+- in: sqrtsum/0053.inp
+  out: sqrtsum/0053.out
+  points: 1
+- in: sqrtsum/0054.inp
+  out: sqrtsum/0054.out
+  points: 1
+- in: sqrtsum/0055.inp
+  out: sqrtsum/0055.out
+  points: 1

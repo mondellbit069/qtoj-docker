@@ -1,0 +1,6 @@
+archive: 10a2c1p1.zip
+checker: standard
+test_cases:
+- in: testcases/0001.inp
+  out: testcases/0001.out
+  points: 1

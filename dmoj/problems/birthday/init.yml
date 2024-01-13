@@ -1,0 +1,47 @@
+archive: factorial.zip
+checker: standard
+test_cases:
+- batched:
+  - in: factorial/Test0001/factorial.inp
+    out: factorial/Test0001/factorial.out
+  - in: factorial/Test0002/factorial.inp
+    out: factorial/Test0002/factorial.out
+  - in: factorial/Test0003/factorial.inp
+    out: factorial/Test0003/factorial.out
+  - in: factorial/Test0004/factorial.inp
+    out: factorial/Test0004/factorial.out
+  points: 20
+- batched:
+  - in: factorial/Test0005/factorial.inp
+    out: factorial/Test0005/factorial.out
+  - in: factorial/Test0006/factorial.inp
+    out: factorial/Test0006/factorial.out
+  - in: factorial/Test0007/factorial.inp
+    out: factorial/Test0007/factorial.out
+  - in: factorial/Test0008/factorial.inp
+    out: factorial/Test0008/factorial.out
+  - in: factorial/Test0009/factorial.inp
+    out: factorial/Test0009/factorial.out
+  - in: factorial/Test0010/factorial.inp
+    out: factorial/Test0010/factorial.out
+  - in: factorial/Test0011/factorial.inp
+    out: factorial/Test0011/factorial.out
+  - in: factorial/Test0012/factorial.inp
+    out: factorial/Test0012/factorial.out
+  - in: factorial/Test0013/factorial.inp
+    out: factorial/Test0013/factorial.out
+  - in: factorial/Test0014/factorial.inp
+    out: factorial/Test0014/factorial.out
+  - in: factorial/Test0015/factorial.inp
+    out: factorial/Test0015/factorial.out
+  - in: factorial/Test0016/factorial.inp
+    out: factorial/Test0016/factorial.out
+  - in: factorial/Test0017/factorial.inp
+    out: factorial/Test0017/factorial.out
+  - in: factorial/Test0018/factorial.inp
+    out: factorial/Test0018/factorial.out
+  - in: factorial/Test0019/factorial.inp
+    out: factorial/Test0019/factorial.out
+  - in: factorial/Test0020/factorial.inp
+    out: factorial/Test0020/factorial.out
+  points: 80

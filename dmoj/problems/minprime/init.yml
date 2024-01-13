@@ -1,0 +1,36 @@
+archive: CAU4.zip
+checker: standard
+file_io:
+  input: CAU4.inp
+  output: CAU4.out
+test_cases:
+- in: CAU4/Test0/CAU4.INP
+  out: CAU4/Test0/CAU4.OUT
+  points: 1
+- in: CAU4/Test1/CAU4.INP
+  out: CAU4/Test1/CAU4.OUT
+  points: 1
+- in: CAU4/Test2/CAU4.INP
+  out: CAU4/Test2/CAU4.OUT
+  points: 1
+- in: CAU4/Test3/CAU4.INP
+  out: CAU4/Test3/CAU4.OUT
+  points: 1
+- in: CAU4/Test4/CAU4.INP
+  out: CAU4/Test4/CAU4.OUT
+  points: 1
+- in: CAU4/Test5/CAU4.INP
+  out: CAU4/Test5/CAU4.OUT
+  points: 1
+- in: CAU4/Test6/CAU4.INP
+  out: CAU4/Test6/CAU4.OUT
+  points: 1
+- in: CAU4/Test7/CAU4.INP
+  out: CAU4/Test7/CAU4.OUT
+  points: 1
+- in: CAU4/Test8/CAU4.INP
+  out: CAU4/Test8/CAU4.OUT
+  points: 1
+- in: CAU4/Test9/CAU4.INP
+  out: CAU4/Test9/CAU4.OUT
+  points: 1

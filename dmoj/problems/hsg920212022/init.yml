@@ -1,0 +1,123 @@
+archive: 21-22._Chinh_thucL9.zip
+checker: standard
+test_cases:
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU1/test01/CAU1.INP
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU1/test01/CAU1.OUT
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU1/test02/CAU1.INP
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU1/test02/CAU1.OUT
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU1/test03/CAU1.INP
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU1/test03/CAU1.OUT
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU1/test04/CAU1.INP
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU1/test04/CAU1.OUT
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU1/test05/CAU1.INP
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU1/test05/CAU1.OUT
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU1/test06/CAU1.INP
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU1/test06/CAU1.OUT
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU1/test07/CAU1.INP
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU1/test07/CAU1.OUT
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU1/test08/CAU1.INP
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU1/test08/CAU1.OUT
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU1/test09/CAU1.INP
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU1/test09/CAU1.OUT
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU1/test10/CAU1.INP
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU1/test10/CAU1.OUT
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU2/test01/CAU2.INP
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU2/test01/CAU2.OUT
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU2/test02/CAU2.INP
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU2/test02/CAU2.OUT
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU2/test03/CAU2.INP
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU2/test03/CAU2.OUT
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU2/test04/CAU2.INP
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU2/test04/CAU2.OUT
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU2/test05/CAU2.INP
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU2/test05/CAU2.OUT
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU2/test06/CAU2.INP
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU2/test06/CAU2.OUT
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU2/test07/CAU2.INP
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU2/test07/CAU2.OUT
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU2/test08/CAU2.INP
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU2/test08/CAU2.OUT
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU2/test09/CAU2.INP
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU2/test09/CAU2.OUT
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU2/test10/CAU2.INP
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU2/test10/CAU2.OUT
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU3/TEST01/CAU3.inp
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU3/TEST01/CAU3.out
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU3/TEST02/CAU3.inp
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU3/TEST02/CAU3.out
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU3/TEST03/CAU3.inp
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU3/TEST03/CAU3.out
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU3/TEST04/CAU3.inp
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU3/TEST04/CAU3.out
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU3/TEST05/CAU3.inp
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU3/TEST05/CAU3.out
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU3/TEST06/CAU3.inp
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU3/TEST06/CAU3.out
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU3/TEST07/CAU3.inp
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU3/TEST07/CAU3.out
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU3/TEST08/CAU3.inp
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU3/TEST08/CAU3.out
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU3/TEST09/CAU3.inp
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU3/TEST09/CAU3.out
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU3/TEST10/CAU3.inp
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU3/TEST10/CAU3.out
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU4/TEST01/CAU4.inp
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU4/TEST01/CAU4.out
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU4/TEST02/CAU4.inp
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU4/TEST02/CAU4.out
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU4/TEST03/CAU4.inp
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU4/TEST03/CAU4.out
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU4/TEST04/CAU4.inp
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU4/TEST04/CAU4.out
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU4/TEST05/CAU4.inp
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU4/TEST05/CAU4.out
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU4/TEST06/CAU4.inp
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU4/TEST06/CAU4.out
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU4/TEST07/CAU4.inp
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU4/TEST07/CAU4.out
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU4/TEST08/CAU4.inp
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU4/TEST08/CAU4.out
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU4/TEST09/CAU4.inp
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU4/TEST09/CAU4.out
+  points: 1
+- in: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU4/TEST10/CAU4.inp
+  out: 21-22. Chinh thucL9/Chinh thuc/TEST/CAU4/TEST10/CAU4.out
+  points: 1

@@ -1,0 +1,33 @@
+archive: testcase.zip
+checker: standard
+test_cases:
+- in: testcase/test1.inp
+  out: testcase/test1.out
+  points: 1
+- in: testcase/test2.inp
+  out: testcase/test2.out
+  points: 1
+- in: testcase/test3.inp
+  out: testcase/test3.out
+  points: 1
+- in: testcase/test4.inp
+  out: testcase/test4.out
+  points: 1
+- in: testcase/test5.inp
+  out: testcase/test5.out
+  points: 1
+- in: testcase/test6.inp
+  out: testcase/test6.out
+  points: 1
+- in: testcase/test7.inp
+  out: testcase/test7.out
+  points: 1
+- in: testcase/test8.inp
+  out: testcase/test8.out
+  points: 1
+- in: testcase/test9.inp
+  out: testcase/test9.out
+  points: 1
+- in: testcase/test10.inp
+  out: testcase/test10.out
+  points: 1

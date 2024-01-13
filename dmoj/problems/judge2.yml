@@ -1,0 +1,4 @@
+id: judge2
+key: a
+problem_storage_globs:
+  - /problems/*

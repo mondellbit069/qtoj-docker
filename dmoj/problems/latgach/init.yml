@@ -1,0 +1,18 @@
+archive: LATGACH.zip
+checker: standard
+test_cases:
+- in: LATGACH/Test0001/LATGACH.inp
+  out: LATGACH/Test0001/LATGACH.out
+  points: 1
+- in: LATGACH/Test0002/LATGACH.inp
+  out: LATGACH/Test0002/LATGACH.out
+  points: 1
+- in: LATGACH/Test0003/LATGACH.inp
+  out: LATGACH/Test0003/LATGACH.out
+  points: 1
+- in: LATGACH/Test0004/LATGACH.inp
+  out: LATGACH/Test0004/LATGACH.out
+  points: 1
+- in: LATGACH/Test0005/LATGACH.inp
+  out: LATGACH/Test0005/LATGACH.out
+  points: 1

@@ -1,0 +1,23 @@
+archive: SQRTRI.zip
+checker:
+  args:
+    files: checker.cpp
+    lang: CPP17
+    type: testlib
+  name: bridged
+test_cases:
+- in: SQRTRI/Test0001/SQRTRI.inp
+  out: SQRTRI/Test0001/SQRTRI.out
+  points: 1
+- in: SQRTRI/Test0002/SQRTRI.inp
+  out: SQRTRI/Test0002/SQRTRI.out
+  points: 1
+- in: SQRTRI/Test0003/SQRTRI.inp
+  out: SQRTRI/Test0003/SQRTRI.out
+  points: 1
+- in: SQRTRI/Test0004/SQRTRI.inp
+  out: SQRTRI/Test0004/SQRTRI.out
+  points: 1
+- in: SQRTRI/Test0005/SQRTRI.inp
+  out: SQRTRI/Test0005/SQRTRI.out
+  points: 1

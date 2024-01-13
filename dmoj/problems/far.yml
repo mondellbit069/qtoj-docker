@@ -1,0 +1,4 @@
+id: far
+key: a
+problem_storage_globs:
+  - /problems/*
